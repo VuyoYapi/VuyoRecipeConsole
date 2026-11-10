@@ -97,7 +97,7 @@ No database or external storage system is used. Recipe information is temporary 
 
 The source code for this project is maintained using GitHub.
 
-**GitHub Repository:** [Insert your GitHub repository URL here]
+**GitHub Repository:** https://github.com/VuyoYapi/VuyoRecipeConsole/tree/master
 
 The repository contains the project source code and development commit history.
 
