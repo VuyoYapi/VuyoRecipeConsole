@@ -112,6 +112,8 @@ The required submission tag for this assessment is:
 **Project:** Recipe Application – Part 1
 
 **Language:** C#
+<img width="1252" height="786" alt="image" src="https://github.com/user-attachments/assets/9dc3d1eb-052f-424c-92ec-da27c92686dd" />
+
 
 **Institution:** Rosebank College
 
