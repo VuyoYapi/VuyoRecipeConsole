@@ -18,7 +18,7 @@ namespace VuyoRecipeConsole
             bool isRunning = true;
 
             Console.WriteLine("=================================");
-            Console.WriteLine("       RECIPE APPLICATION");
+            Console.WriteLine("    VUYO'S RECIPE APPLICATION FOR LI");
             Console.WriteLine("=================================");
 
             while (isRunning)
@@ -216,10 +216,10 @@ namespace VuyoRecipeConsole
                 return null;
             }
 
-            Console.Write($"Are you sure you want to clear '{recipe.Name}'? (Y/N): ");
+            Console.Write($"Are you sure you want to clear '{recipe.Name}'? (Yes/No): ");
             string confirmation = (Console.ReadLine() ?? string.Empty).Trim();
 
-            if (confirmation.Equals("Y", StringComparison.OrdinalIgnoreCase))
+            if (confirmation.Equals("Yes", StringComparison.OrdinalIgnoreCase))
             {
                 Console.WriteLine("Recipe cleared. You can now enter a new recipe.");
                 return null;
